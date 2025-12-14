@@ -1,0 +1,1 @@
+{"uuid": "f91aaa60-971e-4394-b1d7-6057fbbe35c5", "children": ["209b4db5-8b08-4511-a7aa-6894a6a241a9"], "befores": [{"name": "create_burger_data", "status": "passed", "start": 1765225760610, "stop": 1765225761479}], "afters": [{"name": "create_burger_data::0", "status": "passed", "start": 1765225764839, "stop": 1765225765746}], "start": 1765225760610, "stop": 1765225765746}
